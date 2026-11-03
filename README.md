@@ -1,4 +1,4 @@
-# 星隙 · ARCANA
+# ARCANA
 
 [开始抽牌](https://gimlet7.github.io/arcana/)
 
